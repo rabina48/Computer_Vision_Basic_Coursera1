@@ -1,7 +1,8 @@
 # Computer_Vision_Basic_Coursera1
 
 The following resources are  to provide an overview of computer vision. Through the various web articles, videos, and papers.
-##WEEK_1
+
+## WEEK_1
 
 ### Resources: Computer Vision Overview
 [**DIGITAL_IMAGING** ](https://en.wikipedia.org/wiki/Digital_imaging)
