@@ -1,6 +1,6 @@
 # Computer_Vision_Basic_Coursera1
-
-The following resources are  to provide an overview of computer vision. Through the various web articles, videos, and papers.
+Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.It is an simply solved "MATLAB" program that are available at COURSERA and according to the week the solution are presented here in Simple Way.
+The following resources are  to provide an overview of **computer vision**. Through the various web articles, videos, and papers.
 
 ## WEEK_1
 
