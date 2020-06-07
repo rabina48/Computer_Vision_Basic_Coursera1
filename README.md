@@ -3,9 +3,9 @@
 The following resources are  to provide an overview of computer vision. Through the various web articles, videos, and papers.
 
 ### Resources: Computer Vision Overview
+[I'm an inline-style link](https://en.wikipedia.org/wiki/Digital_imaging)
+[I'm an inline-style link](https://en.wikipedia.org/wiki/Computer_graphics)
 
-https://en.wikipedia.org/wiki/Digital_imaging
-https://en.wikipedia.org/wiki/Computer_graphics
 https://en.wikipedia.org/wiki/Machine_vision
 https://www.epicsysinc.com/blog/machine-vision-history
 https://en.wikipedia.org/wiki/DeepFace
