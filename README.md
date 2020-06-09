@@ -35,6 +35,9 @@ The following resources are  to provide an overview of **computer vision**. Thro
 [**Three_Levels**](https://www.albany.edu/~ron/papers/marrlevl.html)
 
 [**Low_Level_Image_processing**](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/MARBLE/low/low.htm)
+
 [**Mid-level Vision**](http://bankslab.berkeley.edu/members/sergei/ALT/Sergei_MidLevelVision.htm)
+
 [**Image segmentation**](https://en.wikipedia.org/wiki/Image_segmentation)
+
 [**High-Level_Vision**](https://pubmed.ncbi.nlm.nih.gov/24552691/)(Paper abstract)
