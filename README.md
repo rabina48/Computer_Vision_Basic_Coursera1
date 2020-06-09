@@ -8,12 +8,12 @@ The following resources are  to provide an overview of **computer vision**. Thro
 [**Digital_Imaging** ](https://en.wikipedia.org/wiki/Digital_imaging)
 
 
-[**Computer_Graphics*](https://en.wikipedia.org/wiki/Computer_graphics)
+[**Computer_Graphics**](https://en.wikipedia.org/wiki/Computer_graphics)
 
-[**MACHINE_VISION**](https://en.wikipedia.org/wiki/Machine_vision)
+[**Machine_Vision**](https://en.wikipedia.org/wiki/Machine_vision)
 
-[**DEEP_FACE**](https://en.wikipedia.org/wiki/DeepFace)
-[**APPLICATION_OF_COMPUTER_VISION**](https://indatalabs.com/blog/data-science/applications-computer-vision-across-industries?cli_action=1542730411.237)
+[**Deep_Face**](https://en.wikipedia.org/wiki/DeepFace)
+[**Application_of_Computer_Vision**](https://indatalabs.com/blog/data-science/applications-computer-vision-across-industries?cli_action=1542730411.237)
 
 [**Virtual_Reality**&**Agumented_Reality**](https://www.youtube.com/watch?v=f9MwaH6oGEY)
 
