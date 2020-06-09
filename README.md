@@ -27,3 +27,14 @@ The following resources are  to provide an overview of **computer vision**. Thro
 [**Computer Vision: The Reinvention of the Eye**](https://medium.com/@verajaneseegers/computer-vision-the-reinvention-of-the-eye-1d741721bf5c)
 
 [**Color_Theory**](https://en.wikipedia.org/wiki/Color_theory)
+
+## WEEK_3
+
+### Resources: Low, Mid, and High-Level Vision
+
+[**Three_Levels**](https://www.albany.edu/~ron/papers/marrlevl.html)
+
+[**Low_Level_Image_processing**](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/MARBLE/low/low.htm)
+[**Mid-level Vision**](http://bankslab.berkeley.edu/members/sergei/ALT/Sergei_MidLevelVision.htm)
+[**Image segmentation**](https://en.wikipedia.org/wiki/Image_segmentation)
+[**High-Level_Vision**](https://pubmed.ncbi.nlm.nih.gov/24552691/)(Paper abstract)
