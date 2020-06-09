@@ -5,10 +5,10 @@ The following resources are  to provide an overview of **computer vision**. Thro
 ## WEEK_1
 
 ### Resources: Computer Vision Overview
-[**DIGITAL_IMAGING** ](https://en.wikipedia.org/wiki/Digital_imaging)
+[**Digital_Imaging** ](https://en.wikipedia.org/wiki/Digital_imaging)
 
 
-[**COMPUTER_GRAPHICS**](https://en.wikipedia.org/wiki/Computer_graphics)
+[**Computer_Graphics*](https://en.wikipedia.org/wiki/Computer_graphics)
 
 [**MACHINE_VISION**](https://en.wikipedia.org/wiki/Machine_vision)
 
